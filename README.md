@@ -1,8 +1,7 @@
 # COEN 283 Project 2
 
 ## Members
-JN Wang
-XT Bao
+JN Wang, XT Bao
 
 ## Results
 
