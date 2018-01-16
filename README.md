@@ -1,14 +1,12 @@
-# COEN 283 Project 2
+# Producer_Consumer_Model
 
 ## Members
 JN Wang, XT Bao
 
 ## Results
-
 The integers will be printed from 0 to the number entered when increase. And will decrease by one per time. The increase(produce resource) and decrease(consume resource) of the number will alternates randomly.
 
 ## Discussion
-
 1. How many of each integer should you see printed?
 Answer: Integers from 0 to the number entered. Twice for each(increase once, decrease once).
 
